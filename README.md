@@ -17,6 +17,34 @@ ready-to-post 1080×1920 Reel.
 
 ---
 
+## 🚀 Fastest path: let Claude Code set this up for you
+
+New to Claude Code? You only have to do **one** thing manually — install
+Claude Code itself. After that, Claude does the rest of this guide *for* you.
+
+1. Go to [claude.com/claude-code](https://claude.com/claude-code), download
+   the desktop app, and sign in with a Claude account (Pro plan or higher).
+2. Open it and paste this:
+
+   > I'm brand new to Claude Code. Go to
+   > https://github.com/LJATX/Remotion and follow the README to set
+   > everything up for me — install the prerequisites, create the video
+   > project, and install both skills. Explain what you're doing as you go,
+   > and tell me when you're ready for my first video.
+
+3. Claude will ask permission before running commands — approve them. When
+   it says it's ready, record a talking-head video on your phone, save it to
+   Downloads, and tell Claude:
+
+   > Turn ~/Downloads/[your-filename] into an Instagram Reel using the
+   > top-bottom split screen skill.
+
+That's it. The rest of this README is the same setup written out
+step-by-step, if you'd rather do it yourself (or just want to know what
+Claude is doing).
+
+---
+
 ## ⚠️ First: where do I type all of this?
 
 **Everything in this guide happens in the Terminal app on your Mac** (find it
